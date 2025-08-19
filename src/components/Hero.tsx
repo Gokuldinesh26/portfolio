@@ -14,7 +14,7 @@ const Hero = () => {
     // Create a link element and trigger download
     const link = document.createElement('a');
     link.href = personalInfo.resumeUrl;
-    link.download = 'Alex_Johnson_Resume.pdf';
+    link.download = 'Resume.pdf';
     document.body.appendChild(link);
     link.click();
     document.body.removeChild(link);

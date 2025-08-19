@@ -47,8 +47,8 @@ export const projects = [
     title: "PERSONAL TIME CAPSULE — WEB APP",
     description: "Created a web platform to store and retrieve personal memories securely over time. Used Node.js, MongoDB, and implemented user authentication.",
     technologies: ["Node.js", "MongoDB", "Express", "Authentication", "Web Development"],
-    githubUrl: "https://github.com/Gokuldinesh26/personal-time-capsule",
-    liveUrl: "https://github.com/Gokuldinesh26/personal-time-capsule",
+    githubUrl: "https://github.com/Ezhilarasi123/pills-remainder",
+    liveUrl: "https://github.com/Ezhilarasi123/pills-remainder",
     image: "https://images.pexels.com/photos/1181244/pexels-photo-1181244.jpeg?auto=compress&cs=tinysrgb&w=800",
     date: "2024"
   }
